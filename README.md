@@ -2,3 +2,6 @@
 TestRepo
 
 ## heading
+
+* first
+* second bullet
